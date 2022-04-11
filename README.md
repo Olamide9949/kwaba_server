@@ -14,4 +14,4 @@
 
   - POST: /api/loan           :to create/submit loan request
   - GET: /api/loan            :homepage of the api
-  - GET: /api/loan/[id]       :to get loan data 
+  - GET: /api/loan/offer       :to get loan data 
